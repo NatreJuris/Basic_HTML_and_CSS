@@ -1,0 +1,17 @@
+<DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>html and css</title>
+		<meta charset="utf8">
+		<link ref="stylesheet" type="text/css" href="Basic_CSS_1.css">
+	</head>
+	<body>
+		<p>This should look nice and blue.</p>
+		<div style="color: green">
+			<h4>heading yes heading</h4>
+			<p>very short paragraph this is indeed</p>
+		</div>
+	</body>
+</htmi>
+		
+	
