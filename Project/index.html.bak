@@ -33,7 +33,7 @@
 					<!--PHOTO-CONTAINER 1-->
 					<div>
 						<div>
-							<img src=".\Images\thumb\thumbnail_1.jfif" alt="">
+							<img src=".\Images\thumb\thumbnail_1.jfif" alt="your missing a good picture">
 							<div>
 								<h3>Click to Enlarge</h3>
 								<p>A Nice Place for a Walk</p>
@@ -44,7 +44,7 @@
 					<!--PHOTO-CONTAINER 2-->
 					<div>
 						<div>
-							<img src=".\Images\thumb\thumbnail_2.jfif" alt="">
+							<img src=".\Images\thumb\thumbnail_2.jfif" alt="your missing a good picture">
 							<div>
 								<h3>Click to Enlarge</h3>
 								<p>A Nice Place for a Walk</p>
@@ -55,7 +55,7 @@
 					<!--PHOTO-CONTAINER 3-->
 					<div>
 						<div>
-							<img src=".\Images\thumb\thumbnail_3.jfif" alt="">
+							<img src=".\Images\thumb\thumbnail_3.jfif" alt="your missing a good picture">
 							<div>
 								<h3>Click to Enlarge</h3>
 								<p>A Nice Place for a Walk</p>
@@ -66,7 +66,7 @@
 					<!--PHOTO-CONTAINER 4-->
 					<div>
 						<div>
-							<img src=".\Images\thumb\thumbnail_4.jfif" alt="">
+							<img src=".\Images\thumb\thumbnail_4.jfif" alt="your missing a good picture">
 							<div>
 								<h3>Click to Enlarge</h3>
 								<p>A Nice Place for a Walk</p>
@@ -77,7 +77,7 @@
 					<!--PHOTO-CONTAINER 5-->
 					<div>
 						<div>
-							<img src=".\Images\thumb\thumbnail_5.jfif" alt="">
+							<img src=".\Images\thumb\thumbnail_5.jfif" alt="your missing a good picture">
 							<div>
 								<h3>Click to Enlarge</h3>
 								<p>A Nice Place for a Walk</p>
@@ -88,7 +88,7 @@
 					<!--PHOTO-CONTAINER 6-->
 					<div>
 						<div>
-							<img src=".\Images\thumb\thumbnail_6.jfif" alt="">
+							<img src=".\Images\thumb\thumbnail_6.jfif" alt="your missing a good picture">
 							<div>
 								<h3>Click to Enlarge</h3>
 								<p>A Nice Place for a Walk</p>
@@ -99,7 +99,7 @@
 					<!--PHOTO-CONTAINER 7-->
 					<div>
 						<div>
-						<img src=".\Images\thumb\thumbnail_7.jfif" alt="">
+						<img src=".\Images\thumb\thumbnail_7.jfif" alt="your missing a good picture">
 							<div>
 								<h3>Click to Enlarge</h3>
 								<p>A Nice Place for a Walk</p>
@@ -110,7 +110,7 @@
 					<!--PHOTO-CONTAINER 8-->
 					<div>
 						<div>
-						<img src=".\Images\thumb\thumbnail_8.jfif" alt="">
+						<img src=".\Images\thumb\thumbnail_8.jfif" alt="your missing a good picture">
 							<div>
 								<h3>Click to Enlarge</h3>
 								<p>A Nice Place for a Walk</p>
@@ -121,7 +121,7 @@
 					<!--PHOTO-CONTAINER 9-->
 					<div>
 						<div>
-							<img src=".\Images\thumb\thumbnail_9.jfif" alt="">
+							<img src=".\Images\thumb\thumbnail_9.jfif" alt="your missing a good picture">
 							<div>
 								<h3>Click to Enlarge</h3>
 								<p>A Nice Place for a Walk</p>
@@ -162,6 +162,8 @@
 				</div>
 			</div>
 		</section>
+		<section>
+			<iframe width="640" height="360" src="https://www.youtube.com/embed/NX_HyeNDfD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		<!--END TRAIL-->
 		<!--FOOTER-->
 		<div>
