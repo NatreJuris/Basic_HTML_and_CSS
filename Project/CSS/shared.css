@@ -87,8 +87,8 @@ p {
     content: ""; 
 }
 .wrap {
-    height: 1004;
-    width: 1004;
+    height: 100%;
+    width: 100%;
     position: absolute;
     overflow: hidden;
     top: 0;
@@ -97,9 +97,9 @@ p {
 }
 .menu-container {
     max-height: 340px;
-    margin: 14 auto;
+    margin: 0% auto;
     content: "";
-    width: 1004;
+    width: 100%;
     z-index: 100;
 }
 /*HOME SECTION*/
