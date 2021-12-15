@@ -192,7 +192,7 @@ p {
     width:504;
     margin: 0 auto;
 }
-.form-contacts {
+.form-contact {
     font-size: 15px;
     outline: none;
     font-weight: 600;
@@ -205,7 +205,7 @@ p {
     background: rgba(227,222,222);
     font-family: 'Raleway', sans-serif;
 }
-.contacts input [type="text"] {
+.trail input[type="text"] {
     font-size: 15px;
     outline: none;
     font-weight: 600;
@@ -222,7 +222,7 @@ p {
     box-shadow: inset 0px 3px 0px 0px rgba(5,5,5,0.15);
     font-family: 'Raleway', sans-serif;
 }
-.contacts input [type="text"] {
+.trail input[type="text"] {
     box-shadow: 0 0 10px rgba(100,65,0,.8);
 }
 .form-spacer {
@@ -245,7 +245,7 @@ p {
 .terms:hover {
     color: orange;
 }
-.submit [type="submit"] {
+.submit[type="submit"] {
     color: rgba(255,225,255);
     cursor: pointer;
     border: none;
@@ -262,7 +262,7 @@ p {
     box-shadow: 1px 1px 4px 0 rgba(0,0,0,0.3);
 }
 
-.submit input [type="submit"]:hover {
+.submit input[type="submit"]:hover {
     color: #000;
     background-color: #8d6e6f;
     box-shadow: inset 1px 2px 15px 0 rgba(o,o,o,o.5);
